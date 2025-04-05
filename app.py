@@ -17,11 +17,11 @@ def fetch_sql_data():
     try:
         # Database connection details
         db_config = {
-            "host": "103.184.242.95",  # MySQL Server IP
+            "host": "103.184.242.55",  # MySQL Server IP
             "port": 3306,               
             "database": "aludecor",     
             "user": "alpl",             
-            "password": "ALuDeC0r*20",      
+            "password": "ALuDeC0r*2025",      
         }
 
         # Connect to MySQL Database

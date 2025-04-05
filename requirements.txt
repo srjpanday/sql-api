@@ -1,0 +1,5 @@
+Flask
+gspread
+mysql-connector-python
+oauth2client
+gunicorn
